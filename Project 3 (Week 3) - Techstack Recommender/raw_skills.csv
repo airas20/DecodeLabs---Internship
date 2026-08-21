@@ -1,0 +1,21 @@
+role,skills
+Data Scientist,python;sql;machine learning;statistics;pandas;data visualization
+DevOps Engineer,aws;docker;kubernetes;ci/cd;linux;automation;terraform
+Backend Developer,java;python;sql;apis;spring boot;microservices;git
+Frontend Developer,javascript;react;html;css;typescript;figma;webpack
+Full Stack Developer,javascript;react;node.js;sql;html;css;apis;git
+Cloud Architect,aws;azure;cloud computing;terraform;networking;automation;security
+Machine Learning Engineer,python;tensorflow;pytorch;machine learning;deep learning;sql;statistics
+Data Engineer,python;sql;spark;airflow;etl;aws;data warehousing
+Cybersecurity Analyst,networking;linux;security;penetration testing;siem;python;risk assessment
+Mobile App Developer,kotlin;swift;java;flutter;android;ios;git
+QA Automation Engineer,selenium;python;java;test automation;ci/cd;git;jira
+Database Administrator,sql;oracle;postgresql;backup and recovery;performance tuning;linux
+Systems Administrator,linux;windows server;networking;bash;automation;active directory
+Site Reliability Engineer,linux;kubernetes;docker;monitoring;automation;python;incident response
+UI/UX Designer,figma;adobe xd;wireframing;prototyping;html;css;user research
+Blockchain Developer,solidity;ethereum;smart contracts;javascript;cryptography;web3
+Game Developer,c++;unity;unreal engine;c#;game design;3d modeling
+Network Engineer,networking;cisco;routing;switching;firewalls;linux;security
+Business Intelligence Analyst,sql;power bi;tableau;data visualization;excel;statistics
+AI Research Engineer,python;pytorch;deep learning;research;nlp;machine learning;statistics
